@@ -10,6 +10,9 @@ This repository contains a powerful and interactive Excel dashboard designed to 
   - 📜 `Data` sheet: Raw dataset for analysis.
   - 📊 `Pivots` sheet: Pivot tables summarizing data.
   - 📈 `Dashboard` sheet: Interactive visual representations and key insights.
+ 
+ - **Screenshot**
+ - 
 
 ## ✨ Features
 
@@ -37,10 +40,6 @@ We welcome contributions! If you’d like to enhance the dashboard, optimize for
 1. Fork the repository.
 2. Make improvements.
 3. Submit a pull request!
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
