@@ -13,7 +13,7 @@ This repository contains a powerful and interactive Excel dashboard designed to 
  
  - **Screenshot**
  - 📸 Sample Dashboard
-![Excel Dashboard](Excel dashboard Sc.jpg)
+![Excel Dashboard](https://github.com/Chaitanya-Bharathi/EXCEL-DASHBOARD/blob/main/Excel%20dashboard%20Sc.jpg)
 
 ## ✨ Features
 
