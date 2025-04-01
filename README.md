@@ -13,7 +13,7 @@ This repository contains a powerful and interactive Excel dashboard designed to 
  
  - **Screenshot**
  - 📸 Sample Dashboard
- ![Excel Dashboard](Excel Dashboard.png)
+![Excel Dashboard](Excel Dashboard.png)
 
 ## ✨ Features
 
